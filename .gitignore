@@ -3,3 +3,4 @@ site
 Thumbs.db
 *.sublime-project
 *.sublime-workspace
+*.cache
